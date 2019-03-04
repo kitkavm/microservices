@@ -1,7 +1,9 @@
 # microservices
 
 To initialize the database doing the following:
+
 export FLASK_APP=microservices
+
 flask init_db
 
 # user create
